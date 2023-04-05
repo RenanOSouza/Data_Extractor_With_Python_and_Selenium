@@ -25,21 +25,21 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
     - Acesse https://www.python.org/downloads/ e baixe a versão atual
 
 2º Passo:  instalar as bibliotecas necessárias com o recurso PIP:
-    - pip install selenium
-    - pip install win32com
-    - pip install pandas
+- pip install selenium
+- pip install win32com
+- pip install pandas
 
 3º Passo: adquirir uma versão do navegador Google Chrome:
-    - Acesse https://www.google.com/intl/pt-BR/chrome/ e baixe a versão atual
+- Acesse https://www.google.com/intl/pt-BR/chrome/ e baixe a versão atual
 
 4º Passo: verifique qual a versão atual do seu navegador:
-    - abra o navegador e vá na aba de configurações
-    - escolha a aba Ajuda
-    - em Ajuda, escolha a opção "Sobre o Google Chrome"
+- abra o navegador e vá na aba de configurações
+- escolha a aba Ajuda
+- em Ajuda, escolha a opção "Sobre o Google Chrome"
 
 5º Passo: realize o download do chromedriver.exe:
-    - Acesse https://chromedriver.chromium.org/downloads e escolha de acordo com a versão do seu navegador.
-    - O arquivo executável deve ser posicionado no diretório em que o código se encontra.
+- Acesse https://chromedriver.chromium.org/downloads e escolha de acordo com a versão do seu navegador.
+- O arquivo executável deve ser posicionado no diretório em que o código se encontra.
 
 ## 📦 Implantação
 
@@ -50,7 +50,7 @@ Se tudo correr bem, uma guia do Google Chrome será aberta e a raspagem de dados
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Python](https://www.python.org/) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+* [Python](https://www.python.org/)
 * [Selenium](https://www.selenium.dev/documentation/) 
 * [Pandas](https://pandas.pydata.org/)
 
