@@ -22,7 +22,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 ### 🔧 Instalação
 
 1º Passo: atualizar o Python para a versão mais atual:
-    - Acesse https://www.python.org/downloads/ e baixe a versão atual
+- Acesse https://www.python.org/downloads/ e baixe a versão atual
 
 2º Passo:  instalar as bibliotecas necessárias com o recurso PIP:
 - pip install selenium
@@ -55,7 +55,5 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Pandas](https://pandas.pydata.org/)
 
 ## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Renan Oliveira** - *Trabalho Total* - [Renan Oliveira](https://github.com/RenanOSouza)
