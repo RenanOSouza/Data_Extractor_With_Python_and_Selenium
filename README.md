@@ -48,8 +48,6 @@ Se tudo correr bem, uma guia do Google Chrome será aberta e a raspagem de dados
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [Python](https://www.python.org/)
 * [Selenium](https://www.selenium.dev/documentation/) 
 * [Pandas](https://pandas.pydata.org/)
